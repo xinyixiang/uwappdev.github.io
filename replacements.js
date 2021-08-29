@@ -31,8 +31,10 @@
     'header':
     `
         <a href = "${PAGES_DIRECTORY}/about.html">About</a>
-        <a href = "${PAGES_DIRECTORY}/support.html">Support Us</a>
+        <a href = "${PAGES_DIRECTORY}/calendar.html">Calendar</a>
+        <a href = "${PAGES_DIRECTORY}/support.html">Resources</a>
         <a href = "${PAGES_DIRECTORY}/join.html">Join Us</a>
+        <a href = "${PAGES_DIRECTORY}/social.html">Social</a>
     `,
 };
 
